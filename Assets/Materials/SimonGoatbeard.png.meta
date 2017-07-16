@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: 114c3ff0857d1514f978ca789b98a400
+timeCreated: 1439322046
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SimonGoatbeard_0
+    21300002: SimonGoatbeard_1
+    21300004: SimonGoatbeard_2
+    21300006: SimonGoatbeard_3
+    21300008: SimonGoatbeard_4
+    21300010: SimonGoatbeard_5
+    21300012: SimonGoatbeard_6
+    21300014: SimonGoatbeard_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 2000
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: SimonGoatbeard_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 526
+        width: 32
+        height: 51
+      alignment: 9
+      pivot: {x: .757670403, y: .823351085}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SimonGoatbeard_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 523
+        width: 32
+        height: 51
+      alignment: 9
+      pivot: {x: .757670403, y: .838748693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SimonGoatbeard_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 503
+        width: 42
+        height: 85
+      alignment: 9
+      pivot: {x: .640228629, y: .495379984}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SimonGoatbeard_3
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 531
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SimonGoatbeard_4
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 545
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: .647239685, y: .708589554}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SimonGoatbeard_5
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 547
+        width: 16
+        height: 30
+      alignment: 9
+      pivot: {x: .671779633, y: .670143664}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SimonGoatbeard_6
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 545
+        width: 22
+        height: 27
+      alignment: 9
+      pivot: {x: .44645831, y: .267324954}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SimonGoatbeard_7
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 506
+        width: 23
+        height: 17
+      alignment: 9
+      pivot: {x: .373913318, y: .729413211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
